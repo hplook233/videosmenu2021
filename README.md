@@ -1,4 +1,4 @@
-<p><h1>2021视频索引-bilibili发表</h1></p>
+<p><h1>2021视频索引-bilibili发表 <a href="space.bilibili.com/474005040"target="_blank">b站主页</a></h1></p>
 <p><a href="https://www.bilibili.com/video/BV153411172o"target="_blank">木筏生存（1）</a> 2021.10.01</p>
 <p><a href="https://www.bilibili.com/video/BV1h64y187QD"target="_blank">木筏生存（2）</a> 2021.10.01</p>
 <p><a href="https://www.bilibili.com/video/BV1zU4y1c7TS"target="_blank">木筏生存（3）</a> 2021.10.02</p>
@@ -42,3 +42,5 @@
 <p><a href="https://www.bilibili.com/video/BV1TS4y1o7zz"target="_blank">花雨庭单方块pc1（2021-08-10 14:31补档）</a> 2022.01.22</p>
 <p><a href="https://www.bilibili.com/video/BV1aY411b73C"target="_blank">猫鼠日常1 （补发）（2021-08-12 14:27补档）</a> 2022.01.22</p>
 <p><a href="https://www.bilibili.com/video/BV1NS4y177e2"target="_blank">搞建筑-熔炉（2021-08-18 18:25补档）</a> 2022.01.22</p>
+<p><a href="https://hplook233.github.io/"target="_blank">主页</a></p>
+<p><a href="https://hplook233.github.io/hplk.github.io/"target="_blank">备份页</a></p>
